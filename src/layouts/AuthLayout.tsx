@@ -11,7 +11,7 @@ export default function AuthLayout() {
             <Outlet />
           </div>
         </div>
-      </div>{" "}
+      </div>
     </>
   );
 }
